@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "light consul nuxt integration",
   "main": "lib/module.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "santus20111",
   "license": "MIT",
   "dependencies": {
