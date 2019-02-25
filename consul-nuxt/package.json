@@ -1,0 +1,13 @@
+{
+  "name": "consul-nuxt",
+  "version": "1.0.0",
+  "description": "light consul nuxt integration",
+  "main": "lib/module.js",
+  "scripts": {
+  },
+  "author": "santus20111",
+  "license": "MIT",
+  "dependencies": {
+    "consul": "^0.34.1"
+  }
+}
