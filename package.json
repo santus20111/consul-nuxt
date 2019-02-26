@@ -1,6 +1,6 @@
 {
   "name": "consul-nuxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "light consul nuxt integration",
   "main": "lib/module.js",
   "scripts": {},
